@@ -1,4 +1,4 @@
-# main script that combines each function for this module
+# Main script that combines each function for this module
 
 import user_request
 import analysis

@@ -1,4 +1,5 @@
-# main script that combines each function for this module
+# Main script that combines each function for this module
+
 import NYT_API_call
 import Article_ingester
 import user_request
