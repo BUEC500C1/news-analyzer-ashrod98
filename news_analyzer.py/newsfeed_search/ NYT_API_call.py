@@ -5,5 +5,5 @@
 #                https://developer.nytimes.com/docs/articlesearch-product/1/routes/articlesearch.json/get
 # returns json file with requested number or article URIs
 
-def NYT_API_call(*parameters, num_articles):
+def NYT_API_call(search_param, filters, num_articles):
     return URI_list

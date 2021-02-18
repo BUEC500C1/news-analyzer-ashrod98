@@ -1,45 +1,41 @@
 # Defined methods for analysis
 
-# file search
-def file_search(parameter, *files):
-    return
-
 # find common keywords
-def find_common_keyword(*keywords, *files):
+def find_common_keyword(keywords, file):
     return
 
 # find names
-def find_names(*files):
+def find_names(file):
     return
 
 # find locations
-def find_locations(&files):
+def find_locations(file):
     return
 
 # find address
-def find_address(*files):
+def find_address(file):
     return
 
 # keyword relations
-def find_relations(*files):
+def find_relations(file):
     return
 
 # find sentiment
-def find_sentiment(*files):
+def find_sentiment(file):
     return
 
 # modify sentiment
-def modify_sentiment(sentiment, *file):
+def modify_sentiment(sentiment, file):
     return
 
 # keyword search
-def keyword_serach(*keywords, *files):
+def keyword_search(keywords, file):
     return
 
 # summary
-def summary(*files):
+def summary(file):
     return
 
 # snapshot
-def snapshot(*files):
+def snapshot(file):
     return
