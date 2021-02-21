@@ -13,7 +13,7 @@ def find_locations(file):
     return
 
 # find address
-def find_address(file):
+def find_addresses(file):
     return
 
 # keyword relations

@@ -7,33 +7,25 @@ These output files will be sent to the NLP module.
 Procedural based API
 
 Events:
-    User_input_received (status)
-    Search_NYtimes_API (process)
-    Receive_URI (status)
-    Translate_article_to_text (process)
-    Generate_output_files (status)
+    User_input_received
+    Search_NYtimes_API
+    Receive_Response
 
 {
-    "Newsfeed Ingester" : [
+    "Newsfeed Ingester" : {}
 
-        "Arguments" : {
-            "User_input_attributes": [
-                keywords,
-                number of articles,
-                filters
+        Arguments : [
+                search_param : search parameters,
+                numarticles : number of articles to return,
+                filters : serach filters
             ]
-        }
-        "Methods":{
-            "user_input" : user_input(*parameters)
-            "NY_times_API_call" : NY_times_API_call()
-            "translate_article_to_text" : translate_article_to_text(URI)
-            "generate_output_text_file" : generate_output_text_file(*file)
+        Methods: {
+            GET : /articlesearch.json
+
         }
         "Status" : [
-            User_input_received
-            Searching_for_articles
-            Translating_articles
-            Generating_output_files
+            Searching_for_articles: {
+                NYT API Repsonse: 200, 401, 429
+            }
         ]
-    ]
 }
