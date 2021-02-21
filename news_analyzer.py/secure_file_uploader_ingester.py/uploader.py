@@ -43,4 +43,8 @@ def uploader(file_URI, filetype):
         }
     }
     return Response_headers
-    return status
+
+# possible logging
+logging.info('file {filename} upload start', filename = file_name)
+logging.info('file {filename} upload success', filename = file_name)
+logging.error('file {filename} upload fail', filename = file_name)

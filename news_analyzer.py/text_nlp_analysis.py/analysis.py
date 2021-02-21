@@ -1,7 +1,7 @@
 # Defined methods for analysis
 
 # find common keywords
-def find_common_keyword(keywords, file):
+def find_common_keywords(keywords, file):
     return
 
 # find names

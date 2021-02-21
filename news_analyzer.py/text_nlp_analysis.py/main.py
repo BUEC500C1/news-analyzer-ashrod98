@@ -2,7 +2,9 @@
 
 import analysis
 import analysis_output
+import logging
 
+logging.basicConfig(format='%(name)s - %(levelname)s - %(message)s')
 Request_headers : {
     "File_ID" : (file_id, type=str)
     "File_URI" : (file_uri, type=str)
@@ -25,3 +27,6 @@ def text_nlp_analysis(Request_headers)
         }
     }
     return Response_headers
+
+# possible logging
+logging.error('Invalid input, file not found')

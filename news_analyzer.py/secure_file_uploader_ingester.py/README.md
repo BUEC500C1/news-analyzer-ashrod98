@@ -7,10 +7,9 @@ Entitiy based API
 
 Events:
     File_identify
-    File_upload_start
-    File_upload_fail
-    File_upload_success
-    Generate_output_file
+    File_upload_fail 'file upload fail' 404
+    File_upload_success 'file upload success' 200
+    Generate_output_file 'file ingested' 200
     User_accept_output_file
     User_edit_output_file
 

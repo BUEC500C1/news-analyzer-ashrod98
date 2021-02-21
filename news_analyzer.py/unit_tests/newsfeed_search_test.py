@@ -78,4 +78,3 @@ expected_output : {
         }
     ]
 }
-

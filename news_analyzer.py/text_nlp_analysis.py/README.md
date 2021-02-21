@@ -9,12 +9,12 @@ This module will output a file containing its analysis to the report generator.
 Prodcedural based API
 
 Events:
-    Input_file_received
-    Analysis_parameters_received
+    Input_file_received = raw text file found
+    Analysis_parameters_received = valid input
     Start_analysis
     Analysis_in_progress
     Analysis_fail
-    Analysis_success
+    Analysis_success 
     Generate_output_file
 
 {
@@ -35,9 +35,10 @@ Events:
         generate_analysis_file : generate_analysis_file(file)
     ]
     Status : [
-        User_input_reciever
+        User_input_recieved
         File_input_found
         Analyzing
         Generating_analysis_file
+        Analysis_complete
     ]
 }

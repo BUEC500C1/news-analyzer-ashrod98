@@ -18,3 +18,8 @@ def generate_analysis_file(analyses):
         }
     }
     return Response_headers
+
+# possible logging
+logging.info("Starting analysis")
+logging.infor('Analysis complete')
+logging.error('Analysis fail')

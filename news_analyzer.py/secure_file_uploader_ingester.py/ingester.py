@@ -19,7 +19,6 @@ Request_headers: {
         }
     }
 }
-
     def ingester(file_URI, filetype):
         Response_headers: {
             "Text": (text, type=object){
@@ -30,3 +29,8 @@ Request_headers: {
             }
         }
         return Response_headers
+
+# possible logging
+logging.info('Ingesting start')
+logging.error('Ingesting fail')
+logging.info('Ingesting complete')

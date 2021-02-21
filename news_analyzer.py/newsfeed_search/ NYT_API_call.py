@@ -7,3 +7,8 @@
 
 def NYT_API_call(search_param, filters, num_articles):
     return URI_list
+
+# possible logging
+logging.error("Invalid filters")
+logging.error('API key invalid')
+logging.error('Too many searches')

@@ -8,8 +8,9 @@ Procedural based API
 
 Events:
     User_input_received
-    Search_NYtimes_API
-    Receive_Response
+    Search_NYtimes_API 'searching APi'
+    Receive_Response 'Articles found' 200
+    Search_fail 401 = 'invaild API key', 429 = 'too many requests'
 
 {
     "Newsfeed Ingester" : {}
@@ -17,7 +18,7 @@ Events:
         Arguments : [
                 search_param : search parameters,
                 numarticles : number of articles to return,
-                filters : serach filters
+                filters : search filters
             ]
         Methods: {
             GET : /articlesearch.json
