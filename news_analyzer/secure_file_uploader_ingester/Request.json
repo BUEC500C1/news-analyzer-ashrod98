@@ -1,0 +1,20 @@
+{
+    "File" : {
+        "File_Name" : "file_name",
+        "File_URI" : "file_uri",
+        "File_Type" : "file_type",
+        "Metadata" : {
+            "Author" : "author",
+            "Published_At" : "published_at",
+            "Source" : {
+                "Source" : "source",
+                "Search_param" : "search_param",
+                "Filters" : "filters"
+            }
+        },
+        "Analyses" : {
+            "Sentiment" : "sentiment",
+            "Keywords" : "keywords"
+        }
+    }
+}

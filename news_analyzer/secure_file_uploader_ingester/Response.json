@@ -1,0 +1,39 @@
+{
+    "File" : {
+        "User_ID" : "user_id",
+        "File_Name": "file_name",
+        "File_URI" : "file_uri",
+        "File_Type" : "file_type",
+        "File_ID" : "file_id",
+        "Text_info": {
+            "Text" : "raw.txt",
+            "Analyses" : {
+                "Sentiment" : "sentiment",
+                "Keywords" : "keywords"
+
+            }
+        },
+        "Metadata" : {
+            "Author" : "author",
+            "Created_At" : "created_at",
+            "Updated_At" : "updated_at",
+            "Published_At" : "published_at",
+            "Size" : "size",
+            "Source" : {
+                "Source" : "source",
+                "Search_param" : "search_param",
+                "Filters" : "filters"
+            }
+        },
+        "Tags" : ["tags"],
+        "Notes" : "notes",
+        "Permissions" : {
+                "share_with" : ["names"]
+        },
+        "Status" : {
+            "Uploader_status" : "uploader_status",
+            "Ingester_status": "ingester_status",
+            "NLP_status" : "nlp_status"
+        }
+    }
+}

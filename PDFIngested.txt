@@ -1,0 +1,133 @@
+Education 
+
+2021 
+
+Skills 
+
+• 
+
+• 
+
+2000 NE 186 Drive, Miami, FL 33179 | 786.514.2676 | ashrod98@gmail.com 
+
+Ashley Rodriguez 
+
+•  Boston University | Boston, MA | Computer Engineering | August 2017 – Present | Expected Graduation: May 
+
+• 
+
+Florida International University Class of 2021 | Miami, FL | August 2015 – August 2017  
+
+•  Programming Languages: MATLAB, Verilog, C, C++, Python 
+
+Languages: English, Spanish (Fluent) 
+
+Leadership, Communication, Teamwork, Organization 
+
+Activities and Community Involvement 
+
+•  Society for Hispanic Professional Engineers | Boston University | Fall 2017 – Present 
+
+•  Residence Hall Association at Boston University | Towers Residence Hall Council | Secretary | 2019-2020 
+
+Awards and Accolades 
+
+•  Hispanic Scholarship Fund | HSF Scholar: 2019 
+
+•  National Merit Scholarship Foundation | National Merit Finalist: 2016 | National Merit Scholarship Recipient: 
+
+2017 – Present 
+
+Relevant Coursework 
+
+•  National Hispanic Recognition Scholarship | National Hispanic Scholar: 2016  
+
+• 
+
+Introduction to Software Engineering (C++) 
+
+Introduction to Engineering Design 
+
+•  Programming for Engineers (MATLAB) 
+
+Introduction to Computer Networking 
+
+• 
+
+• 
+
+• 
+
+Introduction to Logic Design 
+
+•  Software Design 
+
+•  Applied Algorithms for Engineers 
+
+•  Software Engineering (currently enrolled) 
+
+•  Computer Organization 
+
+•  Client-Server Software (currently enrolled) 
+
+• 
+
+Introduction to Machine Learning 
+
+•  Cyber Security (currently enrolled) 
+
+Projects 
+
+• 
+
+Forecast For Me (Introduction to Software Engineering) 
+
+Mobile app using a weather recording API reporting current weather conditions in Boston 
+
+Offers the user a choice between Restaurants, Activities, Tourism, and Shopping 
+
+Recommends activities and locations the user may enjoy according to the weather data acquired 
+
+Implemented in Android Studio with code written primarily in C++ 
+
+•  Whack-A-Mole (Introduction to Logic Design) 
+
+Arcade game programmed on an FPGA board 
+
+Uses five LEDs, five switches, one reset switch, and an 8-digit wide seven-segment display. 
+
+Increments and displays points accumulated and the remaining time per round 
+
+Implemented in Verilog with modular design 
+
+•  OpenStack Manilla (Senior Design) (on-going) 
+
+Build a python SDK to incorporate Manila support into the OpenStackSDK 
+
+Working on implementing support for priority 1 and 2 resources according to Manila spec  
+
+o 
+
+o 
+
+o 
+
+o 
+
+o 
+
+o 
+
+o 
+
+o 
+
+o 
+
+o 
+
+ 
+
+ 
+
+

@@ -35,3 +35,10 @@ in order to reduce the time required to run, and reduce computational workload.
 This module will output a file containing its analysis to the report generator.
 
 Prodcedural based API
+
+
+DATABASE
+
+Using MongoDB
+connection string: mongodb+srv://ashrod98:0042855@newsanalyzerdata.bigfx.mongodb.net/myFirstDatabase?authSource=admin&replicaSet=atlas-dagom4-shard-0&w=majority&readPreference=primary&appname=mongodb-vscode%200.4.2&retryWrites=true&ssl=true
+

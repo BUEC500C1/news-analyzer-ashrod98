@@ -1,0 +1,6 @@
+{
+    "Request" : {
+        "search_param" : "search_param",
+        "number of articles" : "num_articles"
+    }
+}
